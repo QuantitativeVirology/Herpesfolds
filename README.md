@@ -26,7 +26,7 @@ Dependencies:
 	biopython	1.78
 
 In each script, the parent directory and file name must be changed before running the script.
-The output file will be save in the parent directory.
+The output file will be saved in the parent directory.
 Expected run time with demo dataset is less than 1 min.
 
 To view the ChimeraX session files, click on a file link and then "view raw" on the page appearing. This will download the file.
